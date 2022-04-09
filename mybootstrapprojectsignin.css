@@ -1,0 +1,27 @@
+#jumbocontainer{
+  padding-top: 5%;
+}
+
+#mail{
+  width: 100%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  border: 1px solid rgb(214,214,214);
+}
+
+#password{
+  width: 100%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  border: 1px solid rgb(214,214,214);
+}
+
+#submitbutton{
+  border: 1px solid rgb(214,214,214);
+  background-color: white;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  padding-left: 1%;
+  padding-right: 1%;
+  border-radius: 5px;
+}
